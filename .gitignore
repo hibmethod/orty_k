@@ -1,0 +1,10 @@
+MMSPUSK.PAS
+METHOD.PAS
+NW_MET.PAS
+OMATR.PAS
+O_VEC.pas
+*.~*
+results/
+*.exe
+*.cfg
+*.txt

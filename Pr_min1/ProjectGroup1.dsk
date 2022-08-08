@@ -1,0 +1,114 @@
+[Closed Files]
+File_0=SourceModule,'D:\Проекты на Delphi\Delphi_Min_A\Pr_min1\MAIN.PAS',0,1,88,9,50,0,0
+File_1=SourceModule,'D:\Проекты на Delphi\Delphi_Min_A\U_MIN\OO.PAS',0,1,1,1,198,0,0
+File_2=SourceModule,'D:\Проекты на Delphi\Delphi_Min_A\U_FUN\FUN_SUM1.pas',0,1,310,12,312,0,0
+File_3=SourceModule,'D:\Проекты на Delphi\Delphi_Min_A\U_FUN\FUN_SUM.PAS',0,1,232,12,240,0,0
+File_4=SourceModule,'D:\Проекты на Delphi\Delphi_Min_A\U_MIN\MMSPUSK.PAS',0,1,216,21,232,0,0
+File_5=SourceModule,'D:\Проекты на Delphi\Delphi_Min_A\U_MIN\NW_MET.PAS',0,1,107,1,109,0,0
+File_6=SourceModule,'D:\Проекты на Delphi\Delphi_Min_A\vect_matr\O_VEC.pas',0,1,1,1,2,0,0
+File_7=SourceModule,'D:\Проекты на Delphi\Delphi_Min_A\Pr_min1\test0.txt',0,1,4370,42,4388,0,0
+File_8=SourceModule,'D:\Проекты на Delphi\Delphi_Min_A\Pr_min1\test.txt',0,1,19696,29,19725,0,0
+File_9=SourceModule,'D:\Проекты на Delphi\Delphi_Min_A\U_MIN\R_MET.PAS',0,1,339,1,343,0,0
+
+[Modules]
+Count=0
+EditWindowCount=0
+
+[D:\Проекты на Delphi\Delphi_Min_A\Pr_min1\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=1920
+Height=94
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1904
+ClientHeight=56
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=446
+Height=313
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=279
+TBDockHeight=313
+LRDockWidth=446
+Dockable=1
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=96
+Width=156
+Height=84
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=472
+Width=190
+Height=567
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=174
+ClientHeight=533
+TBDockHeight=567
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=
+ExpandedItems=
+HiddenCategories=
+
+[ObjectTree]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=94
+Width=190
+Height=376
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=174
+ClientHeight=342
+TBDockHeight=376
+LRDockWidth=190
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+
+[ActiveProject]
+ActiveProject=0
+
